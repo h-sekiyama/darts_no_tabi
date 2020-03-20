@@ -1,0 +1,30 @@
+PODS:
+  - CryptoSwift (1.3.0)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - PromiseKit/CorePromise (6.13.1)
+  - Sourcery (0.17.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Kingfisher
+  - PromiseKit/CorePromise
+  - Sourcery
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - Kingfisher
+    - PromiseKit
+    - Sourcery
+
+SPEC CHECKSUMS:
+  CryptoSwift: 1283821600233bdbeb96d7b389c3288c3bf77211
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  Sourcery: 3ed61be7c8a1218fce349266139379dba477efe0
+
+PODFILE CHECKSUM: e3f7a7d4a066e13900e94f736aaa84428ef93068
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_dartsNoTabi_dartsNoTabiUITests {
+  umbrella header "Pods-dartsNoTabi-dartsNoTabiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
